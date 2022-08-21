@@ -23,6 +23,6 @@ The KNN and Decision Tree was the best models with excellent predictions
 
 There's two insights extracted from exploratory analysis to help about fraud problem:
 - The majority of frauds transactions don't use the Pin Number 
-- The average distance from last transaction in fraud transactions is 3 times more than normal transactions
+- The median distance from last transaction in fraud transactions is 3 times more than normal transactions
 
 So that can be used to identify if a transactions is fraud or not and the Pin Number can be used to raise security in transactions
