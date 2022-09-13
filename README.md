@@ -14,10 +14,10 @@ I splited the data in 70% for train and 30% for test.
 
 The models developed was:
 
-KNN - 99.91 accuracy
-Logistic Regression - 94.14 accuracy
-Decision Tree - 99.99 of accuracy
-Naive Bayers - 83.18 of accuracy
+KNN - 
+Logistic Regression - 
+Decision Tree - 
+Naive Bayers 
 
 The KNN and Decision Tree was the best models with excellent predictions 
 
