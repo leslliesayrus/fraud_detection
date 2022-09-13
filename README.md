@@ -7,8 +7,7 @@ This dataset contain 1000000 samples, the target feature is the column 'fraud'
 In the fraud column: 0 = normal transactions and 1 = frauds transactions
 The data is so unbalanced, there's only 87000 exaples of frauds of 1000000.
 
-So I used the oversampling tecnique to create new data and balance the data.
-With oversampling applied, the dataframe contain 1800000 samples.
+The Smote method was applied to balance the data.
 
 I splited the data in 70% for train and 30% for test.
 
